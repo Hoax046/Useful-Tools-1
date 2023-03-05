@@ -67,5 +67,5 @@ free -mh
 ```
 ### ubuntu查看硬盘使用情况
 ```bash
-df -lh
+df -lh 
 ```
